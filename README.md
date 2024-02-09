@@ -1,4 +1,4 @@
-Hi there, I am a frontend software developer
+Hi there, I am a junior software engineer
 Pretty much good in the web technologies
 HTML
 CSS
